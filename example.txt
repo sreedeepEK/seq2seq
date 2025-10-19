@@ -1,0 +1,17 @@
+[KEY: > input, = target, < output]
+
+> il est en train de peindre un tableau .
+= he is painting a picture .
+< he is painting a picture .
+
+> pourquoi ne pas essayer ce vin delicieux ?
+= why not try that delicious wine ?
+< why not try that delicious wine ?
+
+> elle n est pas poete mais romanciere .
+= she is not a poet but a novelist .
+< she not not a poet but a novelist .
+
+> vous etes trop maigre .
+= you re too skinny .
+< you re all alone .
