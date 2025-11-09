@@ -1,3 +1,2 @@
-### Seq2seq
-
-NLP From Scratch: Translation with a Sequence to Sequence Network and Attention! Currently in built.
+### TorchSeq
+Building and studying neural architectures for sequence learning in PyTorch. 
